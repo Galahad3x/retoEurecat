@@ -1,0 +1,968 @@
+{
+    "value": {
+        "scenarioId": "uIrOdhzwSWRHZmtRPnEVkZWBmNl3MF",
+        "agentId": "1",
+        "tasks": [
+            {
+                "id": "1y5Q4mPnRN7NrfDadQfieakKBXjm0t",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 1
+                },
+                "reportId": "2",
+                "duration": 20,
+                "sla": 1000
+            },
+            {
+                "id": "ZJRdeOjCnYrxXKDL7VWUXbRs94t3Lh",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Scan brain",
+                    "stressLevel": 2
+                },
+                "reportId": "2",
+                "duration": 70,
+                "sla": 1000
+            },
+            {
+                "id": "ra95U6xEDLLnJ7RyzyF6zpV5XQh5xM",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 2
+                },
+                "reportId": "2",
+                "duration": 60,
+                "sla": 1000
+            },
+            {
+                "id": "Q1SR2yAydJxToGYHT9cO5r6lJs0AzA",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Scan brain",
+                    "stressLevel": 3
+                },
+                "reportId": "2",
+                "duration": 90,
+                "sla": 1000
+            },
+            {
+                "id": "6XCxVsfKReRkFldYokVC3Y8HAT3mVT",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Try Support Vector Machine for lulz",
+                    "stressLevel": 3
+                },
+                "reportId": "2",
+                "duration": 40,
+                "sla": 1000
+            },
+            {
+                "id": "MGxtx0y7eseQAByhXEEPmd5sdfbwA0",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Copy and Paste from Kaggle",
+                    "stressLevel": 3
+                },
+                "reportId": "2",
+                "duration": 190,
+                "sla": 1000
+            },
+            {
+                "id": "ym6gv3WeNShsGkN3HNLpC76rFObPen",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 2
+                },
+                "reportId": "2",
+                "duration": 150,
+                "sla": 1000
+            },
+            {
+                "id": "R3nN0iqwPYCK1vSTcz92R44EPT2hiP",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 2
+                },
+                "reportId": "2",
+                "duration": 350,
+                "sla": 1000
+            },
+            {
+                "id": "iIVV57jW6U3ml4UTHVWfNMoBRCECV5",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "StackOverflow research",
+                    "stressLevel": 2
+                },
+                "reportId": "3",
+                "duration": 70,
+                "sla": 1000
+            },
+            {
+                "id": "qi9XiuC864lmGkOcJXzg5kdMF8LjoQ",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Waste time on daily meeting",
+                    "stressLevel": 2
+                },
+                "reportId": "3",
+                "duration": 20,
+                "sla": 1000
+            },
+            {
+                "id": "GTkt9wzGsWtS89ddGUkUQpYlEEJk94",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Copy and Paste from Kaggle",
+                    "stressLevel": 1
+                },
+                "reportId": "3",
+                "duration": 90,
+                "sla": 1000
+            },
+            {
+                "id": "uV69zbk3U5VokslH6wt6djHqtmo4iQ",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Copy and Paste from Kaggle",
+                    "stressLevel": 3
+                },
+                "reportId": "3",
+                "duration": 20,
+                "sla": 1000
+            },
+            {
+                "id": "wOcGb57Lm5VQMPG4l9SY1rzWk3cR8k",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Waste time on daily meeting",
+                    "stressLevel": 1
+                },
+                "reportId": "3",
+                "duration": 10,
+                "sla": 1000
+            },
+            {
+                "id": "QpOGKMtCJb1sPq2qLMe383YhBU9E1c",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Waste time on daily meeting",
+                    "stressLevel": 2
+                },
+                "reportId": "3",
+                "duration": 250,
+                "sla": 1000
+            },
+            {
+                "id": "r8S0cnj6CxEUtuVBuiH3fhyJCesWEI",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Train neural network",
+                    "stressLevel": 2
+                },
+                "reportId": "3",
+                "duration": 150,
+                "sla": 1000
+            },
+            {
+                "id": "YnLjgHTf3iS70CzqYBnyevmo53nbHN",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 3
+                },
+                "reportId": "3",
+                "duration": 330,
+                "sla": 1000
+            },
+            {
+                "id": "uY7YixHGTqWHFmbJwSBR6qP5mkMQU5",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "StackOverflow research",
+                    "stressLevel": 3
+                },
+                "reportId": "8",
+                "duration": 10,
+                "sla": 1000
+            },
+            {
+                "id": "ZvY861ICUmpmrRlYnH6SLEGLsyE8JJ",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Waste time on daily meeting",
+                    "stressLevel": 1
+                },
+                "reportId": "8",
+                "duration": 10,
+                "sla": 1000
+            },
+            {
+                "id": "AGNPMpECiEqN4311Lzjp00b4NKxg3J",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Scan brain",
+                    "stressLevel": 3
+                },
+                "reportId": "8",
+                "duration": 80,
+                "sla": 1000
+            },
+            {
+                "id": "YoxYFVzcWWTTz9sSusnBDXa08t79n8",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 2
+                },
+                "reportId": "8",
+                "duration": 40,
+                "sla": 1000
+            },
+            {
+                "id": "Y3HfBuKLw5tf86NMwuy9Dh6LzTH65s",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Waste time on daily meeting",
+                    "stressLevel": 1
+                },
+                "reportId": "8",
+                "duration": 80,
+                "sla": 1000
+            },
+            {
+                "id": "sTU0KMQTvZMDyih4lwSGcUCwXg59Ab",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Train neural network",
+                    "stressLevel": 2
+                },
+                "reportId": "8",
+                "duration": 170,
+                "sla": 1000
+            },
+            {
+                "id": "s3qKcXlsRbJslkFFVcTnWLnAZSRld0",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Copy and Paste from Kaggle",
+                    "stressLevel": 1
+                },
+                "reportId": "8",
+                "duration": 160,
+                "sla": 1000
+            },
+            {
+                "id": "YqddQLdOw8wFqX885aWUWkxChlzX7k",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 2
+                },
+                "reportId": "8",
+                "duration": 300,
+                "sla": 1000
+            },
+            {
+                "id": "HrlwkhCHJ0WfJnqlLbuO8JIPkRSWQE",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Scan brain",
+                    "stressLevel": 3
+                },
+                "reportId": "9",
+                "duration": 30,
+                "sla": 1000
+            },
+            {
+                "id": "YAwXfvbUS6S2MvGS02Hit6OmqqghiM",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "StackOverflow research",
+                    "stressLevel": 3
+                },
+                "reportId": "9",
+                "duration": 70,
+                "sla": 1000
+            },
+            {
+                "id": "K6szmIXBthjS0vf3i4Mg0cmrpvZ5AF",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Build neural network",
+                    "stressLevel": 1
+                },
+                "reportId": "9",
+                "duration": 50,
+                "sla": 1000
+            },
+            {
+                "id": "8QbJl176gwOUWQKsATomxk3yE5c5BR",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 1
+                },
+                "reportId": "9",
+                "duration": 60,
+                "sla": 1000
+            },
+            {
+                "id": "2zh0mXglbXjFpQg0uexPLMUz0aPRaC",
+                "completed": false,
+                "category": {
+                    "type": 1,
+                    "description": "Waste time on daily meeting",
+                    "stressLevel": 3
+                },
+                "reportId": "9",
+                "duration": 60,
+                "sla": 1000
+            },
+            {
+                "id": "oeptSrHjrrGwGSxwHc4Dn1HNblurLA",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "StackOverflow research",
+                    "stressLevel": 2
+                },
+                "reportId": "9",
+                "duration": 100,
+                "sla": 1000
+            },
+            {
+                "id": "o7C4WRuwxl1LYEcBAj2TSxrJZZ4YU5",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "StackOverflow research",
+                    "stressLevel": 2
+                },
+                "reportId": "9",
+                "duration": 170,
+                "sla": 1000
+            },
+            {
+                "id": "kRYHVj8RHXXKBF8N37t1BSxdk5TyJU",
+                "completed": false,
+                "category": {
+                    "type": 0,
+                    "description": "Train neural network",
+                    "stressLevel": 2
+                },
+                "reportId": "9",
+                "duration": 310,
+                "sla": 1000
+            },
+            {
+                "id": "Bh18QMxXWhfaQ31lpw4xC2k50rRZLK",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Build neural network",
+                    "stressLevel": 2
+                },
+                "reportId": "7",
+                "duration": 0,
+                "sla": 1000
+            },
+            {
+                "id": "bL7O1VV68t5zDJhdORlSkbmk2DhErB",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "StackOverflow research",
+                    "stressLevel": 1
+                },
+                "reportId": "7",
+                "duration": 20,
+                "sla": 1000
+            },
+            {
+                "id": "bagIcPUWxxjk6pXrdG1pGD8G1OOEAn",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Try Support Vector Machine for lulz",
+                    "stressLevel": 3
+                },
+                "reportId": "7",
+                "duration": 70,
+                "sla": 1000
+            },
+            {
+                "id": "gXqtmbx6EHQOBjTpkauq9850eM8XeE",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Scan brain",
+                    "stressLevel": 2
+                },
+                "reportId": "7",
+                "duration": 80,
+                "sla": 1000
+            },
+            {
+                "id": "PujgcuCvViV9JPvUaBVQS1TbZ9qKVF",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Build neural network",
+                    "stressLevel": 2
+                },
+                "reportId": "7",
+                "duration": 250,
+                "sla": 1000
+            },
+            {
+                "id": "3UPsjkpYlysO757W6JFneUV4g5vAWB",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Copy and Paste from Kaggle",
+                    "stressLevel": 2
+                },
+                "reportId": "7",
+                "duration": 340,
+                "sla": 1000
+            },
+            {
+                "id": "5778p90sKizCumR5Ayt3iCokM8SURT",
+                "completed": true,
+                "category": {
+                    "type": 1,
+                    "description": "Waste time on daily meeting",
+                    "stressLevel": 3
+                },
+                "reportId": "7",
+                "duration": 20,
+                "sla": 1000
+            },
+            {
+                "id": "o4w9zvcueZTkqVFQa9gIHxwP4YWyNS",
+                "completed": true,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 1
+                },
+                "reportId": "7",
+                "duration": 170,
+                "sla": 1000
+            },
+            {
+                "id": "F7weIiyPp9kDntbc8qVMJ6coE87kLU",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Scan brain",
+                    "stressLevel": 1
+                },
+                "reportId": "0",
+                "duration": 0,
+                "sla": 1000
+            },
+            {
+                "id": "CHR0Hj1pG4dp3Lp0TH1ZhaNDh5Glty",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Try Support Vector Machine for lulz",
+                    "stressLevel": 1
+                },
+                "reportId": "0",
+                "duration": 20,
+                "sla": 1000
+            },
+            {
+                "id": "frnwFiZKRkxRIcq3LF2xKEBq7U1f6Z",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Try Support Vector Machine for lulz",
+                    "stressLevel": 2
+                },
+                "reportId": "0",
+                "duration": 70,
+                "sla": 1000
+            },
+            {
+                "id": "3rovIlnXvtjFyllm1qYTDvlvvinoP4",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Build neural network",
+                    "stressLevel": 3
+                },
+                "reportId": "0",
+                "duration": 130,
+                "sla": 1000
+            },
+            {
+                "id": "YenTjQolXmdVkO3cC3RUUdPnQpFhTh",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Copy and Paste from Kaggle",
+                    "stressLevel": 2
+                },
+                "reportId": "0",
+                "duration": 170,
+                "sla": 1000
+            },
+            {
+                "id": "Y8uaN4vkuWlxHak5sb6r3LnZuph63c",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Build neural network",
+                    "stressLevel": 3
+                },
+                "reportId": "0",
+                "duration": 350,
+                "sla": 1000
+            },
+            {
+                "id": "qnI9JvVZIYlKuvhm3NSfhpD1ALMdFD",
+                "completed": true,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 3
+                },
+                "reportId": "0",
+                "duration": 50,
+                "sla": 1000
+            },
+            {
+                "id": "26uep4BIf9P2BOYN9yuGxgDZ9wR00U",
+                "completed": true,
+                "category": {
+                    "type": 1,
+                    "description": "Waste time on daily meeting",
+                    "stressLevel": 1
+                },
+                "reportId": "0",
+                "duration": 80,
+                "sla": 1000
+            },
+            {
+                "id": "U7cJEg1noBSs8noACCS7nnNWKHeLOI",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Try Support Vector Machine for lulz",
+                    "stressLevel": 3
+                },
+                "reportId": "5",
+                "duration": 0,
+                "sla": 1000
+            },
+            {
+                "id": "DZdv8pmy0zbILtClsGhsbSQqp1Ipze",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Try Support Vector Machine for lulz",
+                    "stressLevel": 2
+                },
+                "reportId": "5",
+                "duration": 20,
+                "sla": 1000
+            },
+            {
+                "id": "b9N80eXv6a197szekpT59jaMD78UCv",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "StackOverflow research",
+                    "stressLevel": 2
+                },
+                "reportId": "5",
+                "duration": 20,
+                "sla": 1000
+            },
+            {
+                "id": "c9RtLWYlDxglX0GWy1QwzYZDRNGlEA",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Scan brain",
+                    "stressLevel": 1
+                },
+                "reportId": "5",
+                "duration": 60,
+                "sla": 1000
+            },
+            {
+                "id": "QUmEBt9k2pMoFzd4fnKfJyq2tevtZ1",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Try Support Vector Machine for lulz",
+                    "stressLevel": 1
+                },
+                "reportId": "5",
+                "duration": 150,
+                "sla": 1000
+            },
+            {
+                "id": "pxePs8L69OoCphhlpcKP9BZc7C7yR7",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "StackOverflow research",
+                    "stressLevel": 3
+                },
+                "reportId": "5",
+                "duration": 240,
+                "sla": 1000
+            },
+            {
+                "id": "MFQaW1XLsic4WHxbMHE4L6VAdKV7Xo",
+                "completed": true,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 1
+                },
+                "reportId": "5",
+                "duration": 10,
+                "sla": 1000
+            },
+            {
+                "id": "e9z3RhGr0CfxlWEp57MaO9w95vFDKL",
+                "completed": true,
+                "category": {
+                    "type": 1,
+                    "description": "Waste time on daily meeting",
+                    "stressLevel": 2
+                },
+                "reportId": "5",
+                "duration": 300,
+                "sla": 1000
+            },
+            {
+                "id": "w4MPhRnySa8GSdqLjn659f68xFlkir",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Build neural network",
+                    "stressLevel": 2
+                },
+                "reportId": "1",
+                "duration": 0,
+                "sla": 1000
+            },
+            {
+                "id": "X9lFkH5EyrBhdm1Y21cDnR1t9I5n03",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Build neural network",
+                    "stressLevel": 1
+                },
+                "reportId": "1",
+                "duration": 30,
+                "sla": 1000
+            },
+            {
+                "id": "ROU9jS5JDjaHf74IdkDm04xHn4ByxT",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Scan brain",
+                    "stressLevel": 3
+                },
+                "reportId": "1",
+                "duration": 40,
+                "sla": 1000
+            },
+            {
+                "id": "45LiD4MBNEhlX4p74U9bh5ocjPTJR4",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Try Support Vector Machine for lulz",
+                    "stressLevel": 3
+                },
+                "reportId": "1",
+                "duration": 70,
+                "sla": 1000
+            },
+            {
+                "id": "3RiGkjovIzVwWwMCMPSVim9tjmckZv",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Try Support Vector Machine for lulz",
+                    "stressLevel": 3
+                },
+                "reportId": "1",
+                "duration": 130,
+                "sla": 1000
+            },
+            {
+                "id": "rBzdF1ddSLOWCVOAOnbddpycR7N3Dt",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "StackOverflow research",
+                    "stressLevel": 3
+                },
+                "reportId": "1",
+                "duration": 200,
+                "sla": 1000
+            },
+            {
+                "id": "dAURzHko04aDEwj80716imchho2bT0",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Copy and Paste from Kaggle",
+                    "stressLevel": 2
+                },
+                "reportId": "1",
+                "duration": 340,
+                "sla": 1000
+            },
+            {
+                "id": "waXnFOeNClwYzrA2K2pomdDv6awYBd",
+                "completed": true,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 1
+                },
+                "reportId": "1",
+                "duration": 90,
+                "sla": 1000
+            },
+            {
+                "id": "8THUohiiC8YkC1bOoA4JNwAfdOdDdV",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Scan brain",
+                    "stressLevel": 3
+                },
+                "reportId": "6",
+                "duration": 10,
+                "sla": 1000
+            },
+            {
+                "id": "hzdTpnIhdRZHo6ptFetM7lisZGj7Av",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Train neural network",
+                    "stressLevel": 2
+                },
+                "reportId": "6",
+                "duration": 50,
+                "sla": 1000
+            },
+            {
+                "id": "Yj3aayvKSwpunUddwzlhPHMajN5r8E",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Try Support Vector Machine for lulz",
+                    "stressLevel": 1
+                },
+                "reportId": "6",
+                "duration": 100,
+                "sla": 1000
+            },
+            {
+                "id": "lf3XsciEwjwXIYSOtloZzoGlN2Tmmh",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Copy and Paste from Kaggle",
+                    "stressLevel": 3
+                },
+                "reportId": "6",
+                "duration": 100,
+                "sla": 1000
+            },
+            {
+                "id": "TpFdriSKjCJYArS9g7mOpbooePDztJ",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Train neural network",
+                    "stressLevel": 3
+                },
+                "reportId": "6",
+                "duration": 320,
+                "sla": 1000
+            },
+            {
+                "id": "1sIXnU0A5dC3wxRjEFizTB8LpxRGZb",
+                "completed": true,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 2
+                },
+                "reportId": "6",
+                "duration": 30,
+                "sla": 1000
+            },
+            {
+                "id": "RZV5qFttSVczW9yrfbMsHLLbA0ojCN",
+                "completed": true,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 3
+                },
+                "reportId": "6",
+                "duration": 30,
+                "sla": 1000
+            },
+            {
+                "id": "dnyMutjdypzytArsZ3HTQCRglBuMRH",
+                "completed": true,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 3
+                },
+                "reportId": "6",
+                "duration": 220,
+                "sla": 1000
+            },
+            {
+                "id": "W7YLxN81Hgz3Y7MaYQswSkbDQ4ZQRh",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Try Support Vector Machine for lulz",
+                    "stressLevel": 2
+                },
+                "reportId": "4",
+                "duration": 10,
+                "sla": 1000
+            },
+            {
+                "id": "3ncoogJXVoZaP70C5PFw3HKXNZ38H4",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Build neural network",
+                    "stressLevel": 2
+                },
+                "reportId": "4",
+                "duration": 20,
+                "sla": 1000
+            },
+            {
+                "id": "rNwDG5eY5dbK1gazDsNGRK01FOLHrL",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "StackOverflow research",
+                    "stressLevel": 3
+                },
+                "reportId": "4",
+                "duration": 60,
+                "sla": 1000
+            },
+            {
+                "id": "OpFx5MwnOTm8EDpkVYlUBy8agiiMu5",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Copy and Paste from Kaggle",
+                    "stressLevel": 2
+                },
+                "reportId": "4",
+                "duration": 80,
+                "sla": 1000
+            },
+            {
+                "id": "RSQ6Z2qfOvEjWZjDELggztWbnxgiIH",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Scan brain",
+                    "stressLevel": 1
+                },
+                "reportId": "4",
+                "duration": 100,
+                "sla": 1000
+            },
+            {
+                "id": "YMWssx7NnJcPmQRocU1Ord9XlzJ9IM",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Scan brain",
+                    "stressLevel": 2
+                },
+                "reportId": "4",
+                "duration": 180,
+                "sla": 1000
+            },
+            {
+                "id": "UQpyaCMdyA4O4siFUQiCfriHYQzHVp",
+                "completed": true,
+                "category": {
+                    "type": 0,
+                    "description": "Scan brain",
+                    "stressLevel": 2
+                },
+                "reportId": "4",
+                "duration": 240,
+                "sla": 1000
+            },
+            {
+                "id": "WhDhvfoTNegHeKYpv0jZW7rx5gGVWP",
+                "completed": true,
+                "category": {
+                    "type": 1,
+                    "description": "Work remote",
+                    "stressLevel": 3
+                },
+                "reportId": "4",
+                "duration": 270,
+                "sla": 1000
+            }
+        ]
+    }
+}
